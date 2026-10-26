@@ -7,4 +7,4 @@ My personal portfolio website showcasing my background, education, skills, proje
 - CSS
 
 ## Live Website
-Coming soon!
+ https://yashika-bhowmick.github.io/yashika-personal-portfolio/
